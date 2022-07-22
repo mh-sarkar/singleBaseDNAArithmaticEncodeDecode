@@ -1,1 +1,1 @@
-# singleBaseDNAArithmaticEncodeDecode
+# singleBaseDNAArithmaticEncoding
